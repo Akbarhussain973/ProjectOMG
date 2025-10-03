@@ -1,1 +1,2 @@
 This is OMG Project docx file.
+This is an edit in OMG_docx.txt file.
